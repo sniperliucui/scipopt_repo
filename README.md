@@ -1,0 +1,2 @@
+# scipopt_repo
+pyscipopt
